@@ -73,15 +73,22 @@ rows = [
 lang_line = "  ·  ".join(f"{k} ({v})" for k, v in top_langs) or "—"
 lang_line = (lang_line[:72] + "…") if len(lang_line) > 72 else lang_line
 
+# palette matched to the user's GitHub avatar (selfie): charcoal / olive / leaf-green
+BG = "#171B1E"
+STROKE = "#676142"
+TITLE = "#8A8F53"
+LABEL = "#AC9879"
+VALUE = "#E4E4E9"
+LANG = "#50604B"
 svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">']
-svg.append(f'<rect width="{W}" height="{H}" rx="14" fill="#0d1117" stroke="#30363d"/>')
-svg.append(f'<text x="20" y="34" fill="#58a6ff" font-family="Fira Code,monospace" font-size="18" font-weight="bold">📊 {USER} stats</text>')
+svg.append(f'<rect width="{W}" height="{H}" rx="14" fill="{BG}" stroke="{STROKE}"/>')
+svg.append(f'<text x="20" y="34" fill="{TITLE}" font-family="Fira Code,monospace" font-size="18" font-weight="bold">📊 {USER} stats</text>')
 y = 70
 for label, val in rows:
-    svg.append(f'<text x="20" y="{y}" fill="#8b949e" font-family="monospace" font-size="14">{label}</text>')
-    svg.append(f'<text x="{W-20}" y="{y}" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">{val}</text>')
+    svg.append(f'<text x="20" y="{y}" fill="{LABEL}" font-family="monospace" font-size="14">{label}</text>')
+    svg.append(f'<text x="{W-20}" y="{y}" fill="{VALUE}" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">{val}</text>')
     y += 24
-svg.append(f'<text x="20" y="{H-16}" fill="#7ee787" font-family="monospace" font-size="12">top langs: {lang_line}</text>')
+svg.append(f'<text x="20" y="{H-16}" fill="{LANG}" font-family="monospace" font-size="12">top langs: {lang_line}</text>')
 svg.append('</svg>')
 
 with open("metrics.svg", "w", encoding="utf-8") as f:
