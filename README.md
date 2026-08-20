@@ -22,23 +22,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats (self-hosted)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SNNN-011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNNN-011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
-  <br/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=SNNN-011&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/output/metrics.svg" alt="metrics"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNNN-011&theme=tokyonight&hide_border=true&area=true&radius=12" alt="activity graph"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SNNN-011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400" alt="trophies"/>
 </div>
 
 ---
