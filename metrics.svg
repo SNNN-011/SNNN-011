@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="220" viewBox="0 0 460 220">
-<rect width="460" height="220" rx="14" fill="#0d1117" stroke="#30363d"/>
-<text x="20" y="34" fill="#58a6ff" font-family="Fira Code,monospace" font-size="18" font-weight="bold">📊 SNNN-011 stats</text>
-<text x="20" y="70" fill="#8b949e" font-family="monospace" font-size="14">Public repos</text>
-<text x="440" y="70" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">18</text>
-<text x="20" y="94" fill="#8b949e" font-family="monospace" font-size="14">Followers</text>
-<text x="440" y="94" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">0</text>
-<text x="20" y="118" fill="#8b949e" font-family="monospace" font-size="14">Following</text>
-<text x="440" y="118" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">0</text>
-<text x="20" y="142" fill="#8b949e" font-family="monospace" font-size="14">Total stars</text>
-<text x="440" y="142" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">1</text>
-<text x="20" y="166" fill="#8b949e" font-family="monospace" font-size="14">Total forks</text>
-<text x="440" y="166" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">0</text>
-<text x="20" y="190" fill="#8b949e" font-family="monospace" font-size="14">Commits (1y)</text>
-<text x="440" y="190" fill="#c9d1d9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">336</text>
-<text x="20" y="204" fill="#7ee787" font-family="monospace" font-size="12">top langs: Python (6)  ·  JavaScript (2)  ·  HTML (2)  ·  TypeScript (1)  ·  Kotlin…</text>
+<rect width="460" height="220" rx="14" fill="#171B1E" stroke="#676142"/>
+<text x="20" y="34" fill="#8A8F53" font-family="Fira Code,monospace" font-size="18" font-weight="bold">📊 SNNN-011 stats</text>
+<text x="20" y="70" fill="#AC9879" font-family="monospace" font-size="14">Public repos</text>
+<text x="440" y="70" fill="#E4E4E9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">18</text>
+<text x="20" y="94" fill="#AC9879" font-family="monospace" font-size="14">Followers</text>
+<text x="440" y="94" fill="#E4E4E9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">0</text>
+<text x="20" y="118" fill="#AC9879" font-family="monospace" font-size="14">Following</text>
+<text x="440" y="118" fill="#E4E4E9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">0</text>
+<text x="20" y="142" fill="#AC9879" font-family="monospace" font-size="14">Total stars</text>
+<text x="440" y="142" fill="#E4E4E9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">1</text>
+<text x="20" y="166" fill="#AC9879" font-family="monospace" font-size="14">Total forks</text>
+<text x="440" y="166" fill="#E4E4E9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">0</text>
+<text x="20" y="190" fill="#AC9879" font-family="monospace" font-size="14">Commits (1y)</text>
+<text x="440" y="190" fill="#E4E4E9" font-family="monospace" font-size="14" text-anchor="end" font-weight="bold">339</text>
+<text x="20" y="204" fill="#50604B" font-family="monospace" font-size="12">top langs: Python (6)  ·  JavaScript (2)  ·  HTML (2)  ·  TypeScript (1)  ·  Kotlin…</text>
 </svg>
