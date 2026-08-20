@@ -2,13 +2,14 @@ name: Generate Metrics SVG
 on:
   schedule: [{ cron: "0 6 * * *" }]
   workflow_dispatch:
-  push: { branches: ["main"] }
+  push: { branches: ["main"], paths: [".github/gen_metrics.py"] }
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions: { contents: write }
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main, fetch-depth: 0 }
       - name: Generate metrics.svg
         env:
           USER: SNNN-011
@@ -20,4 +21,5 @@ jobs:
           git config user.email "yasinhacker135@gmail.com"
           git add metrics.svg
           git commit -m "chore: regenerate metrics.svg" || echo "no change"
+          git pull --rebase origin main
           git push
