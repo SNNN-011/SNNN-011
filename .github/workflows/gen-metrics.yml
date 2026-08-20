@@ -1,0 +1,23 @@
+name: Generate Metrics SVG
+on:
+  schedule: [{ cron: "0 6 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main"] }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate metrics.svg
+        env:
+          USER: SNNN-011
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/gen_metrics.py
+      - name: Commit
+        run: |
+          git config user.name "Yasin"
+          git config user.email "yasinhacker135@gmail.com"
+          git add metrics.svg
+          git commit -m "chore: regenerate metrics.svg" || echo "no change"
+          git push
