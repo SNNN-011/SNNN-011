@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/metrics.svg" alt="stats"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNNN-011&theme=tokyonight&hide_border=true&area=true&radius=12&color=00b3ff&line=00b3ff&point=ffffff&bg_color=0d1117" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNNN-011&theme=tokyonight&hide_border=true&area=true&radius=12&color=8A8F53&line=8A8F53&point=E4E4E9&bg_color=171B1E" alt="contribution graph"/>
 </div>
 
 ---
