@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="80" viewBox="0 0 640 80">
+<defs>
+<linearGradient id="shimmer" x1="0%" y1="0%" x2="200%" y2="0%">
+  <stop offset="0%" stop-color="#8A8F53">
+    <animate attributeName="stop-color" values="#8A8F53;#50604B;#676142;#AC9879;#8A8F53" dur="5s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="50%" stop-color="#50604B">
+    <animate attributeName="stop-color" values="#50604B;#676142;#AC9879;#8A8F53;#50604B" dur="5s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" stop-color="#676142">
+    <animate attributeName="stop-color" values="#676142;#AC9879;#8A8F53;#50604B;#676142" dur="5s" repeatCount="indefinite"/>
+  </stop>
+  <animate attributeName="x1" values="0%;-100%" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="200%;100%" dur="5s" repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+<rect width="640" height="80" fill="none"/>
+<text x="50%" y="50" text-anchor="middle" dominant-baseline="central" fill="url(#shimmer)" font-family="'Segoe UI','Trebuchet MS',Verdana,sans-serif" font-weight="700" font-size="34">AI &amp; Security Enthusiast</text>
+</svg>
