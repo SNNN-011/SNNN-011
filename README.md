@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SNNN-011&style=flat-square&color=00b3ff" alt="visitor count"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=800&color=00B3FF&center=true&vCenter=true&multiline=true&width=560&height=60&lines=AI+%26+Security+Enthusiast;Builder+of+weird+AI+agents;Automation+%7C+Pentest+%7C+Web3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=900&color=8A8F53&center=true&vCenter=true&multiline=true&width=620&height=60&lines=AI+%26+Security+Enthusiast+%7C+Builder;Builder+of+weird+AI+agents;Automation+%7C+Pentest+%7C+Web3" alt="Typing SVG" /></a>
 
 [![X](https://img.shields.io/badge/X-@snnn__011-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snnn_011)
 [![Instagram](https://img.shields.io/badge/IG-@yasin.anr-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin.anr)
