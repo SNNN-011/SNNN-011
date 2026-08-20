@@ -14,12 +14,9 @@ jobs:
           user: SNNN-011
           base: header, activity, community, repositories, metadata
           config_output: svg
-          output_action: gist
-          config_output: svg
           filename: metrics.svg
-          config_presets: metrics.plugin.isocalendar
           template: classic
-          plugins: languages, followup, people, traffic, projects, stellar
+          plugins: languages, followup, people, traffic, projects, isocalendar
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
@@ -29,7 +26,7 @@ jobs:
           plugin_followup: yes
           plugin_traffic: yes
           plugin_projects: yes
-          plugin_stellar: yes
+          plugin_isocalendar: yes
       - name: Upload metrics to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
