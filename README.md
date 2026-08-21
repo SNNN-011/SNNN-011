@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SNNN-011&style=flat-square&color=00b3ff" alt="visitor count"/>
 
-<img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/shimmer-v2.svg" alt="AI & Security Enthusiast"/>
+<img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/shimmer-v3.svg" alt="AI & Security Enthusiast"/>
 
 [![X](https://img.shields.io/badge/X-@snnn__011-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snnn_011)
 [![Instagram](https://img.shields.io/badge/IG-@yasin.anr-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin.anr)
