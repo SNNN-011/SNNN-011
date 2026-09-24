@@ -6,6 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/blink-v2.svg" alt="Automation · developer tools · security research"/>
 
+<blockquote><em>“it won't change just because you wanted to”</em></blockquote>
+
 [![X](https://img.shields.io/badge/X-@snnn__011-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snnn_011)
 [![Instagram](https://img.shields.io/badge/Instagram-@yasin.anr-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin.anr)
 [![GitHub](https://img.shields.io/badge/GitHub-SNNN--011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNNN-011)
@@ -17,7 +19,7 @@
 ## What I work with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,php,html,css,git,linux,androidstudio,vscode,bash&theme=dark&perline=6" alt="Python, TypeScript, JavaScript, Kotlin, PHP, HTML, CSS, Git, Linux, Android Studio, VS Code, Bash"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,php,flask,react,html,css,git,linux,androidstudio,vscode,bash&theme=dark&perline=7" alt="Python, TypeScript, JavaScript, Kotlin, PHP, HTML, CSS, Git, Linux, Android Studio, VS Code, Bash"/>
 </div>
 
 ---
