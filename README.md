@@ -27,15 +27,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/metrics.svg" alt="stats"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNNN-011&theme=tokyonight&hide_border=true&area=true&radius=12&color=8A8F53&line=8A8F53&point=E4E4E9&bg_color=171B1E" alt="contribution graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/output/github-contribution-grid-snake-dark.svg" alt="contribution graph"/>
 </div>
 
 ---
