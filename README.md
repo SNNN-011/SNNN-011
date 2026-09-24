@@ -8,9 +8,9 @@
 
 <blockquote><em>“it won't change just because you wanted to”</em></blockquote>
 
-<a href="https://x.com/snnn_011"><img src="https://img.shields.io/badge/X-@snnn__011-24282D?style=flat-square&logo=x&logoColor=E4E4E9" alt="X: @snnn_011"/></a>
-<a href="https://instagram.com/yasin.anr"><img src="https://img.shields.io/badge/Instagram-@yasin.anr-5A5149?style=flat-square&logo=instagram&logoColor=E4E4E9" alt="Instagram: @yasin.anr"/></a>
-<a href="https://github.com/SNNN-011"><img src="https://img.shields.io/badge/GitHub-SNNN--011-3B403B?style=flat-square&logo=github&logoColor=E4E4E9" alt="GitHub: SNNN-011"/></a>
+<a href="https://x.com/snnn_011"><img height="28" src="https://img.shields.io/badge/X-@snnn__011-24282D?style=flat-square&logo=x&logoColor=E4E4E9" alt="X: @snnn_011"/></a>&nbsp;
+<a href="https://instagram.com/yasin.anr"><img height="28" src="https://img.shields.io/badge/Instagram-@yasin.anr-5A5149?style=flat-square&logo=instagram&logoColor=E4E4E9" alt="Instagram: @yasin.anr"/></a>&nbsp;
+<a href="https://github.com/SNNN-011"><img height="28" src="https://img.shields.io/badge/GitHub-SNNN--011-3B403B?style=flat-square&logo=github&logoColor=E4E4E9" alt="GitHub: SNNN-011"/></a>
 
 </div>
 
