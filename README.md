@@ -1,25 +1,48 @@
-# Yasin
+<div align="center">
 
-I build small, useful systems around automation, developer tools, and security research.
+# Hi, I'm Yasin
 
-Currently working across Python, TypeScript, Kotlin, and the occasional piece of infrastructure that needs to stay boring.
+<img src="https://komarev.com/ghpvc/?username=SNNN-011&style=flat-square&color=8A8F53" alt="Profile views"/>
 
-[GitHub](https://github.com/SNNN-011) · [X](https://x.com/snnn_011) · [Instagram](https://instagram.com/yasin.anr)
+<img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/blink-v2.svg" alt="Automation · developer tools · security research"/>
 
-## Selected work
+[![X](https://img.shields.io/badge/X-@snnn__011-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snnn_011)
+[![Instagram](https://img.shields.io/badge/Instagram-@yasin.anr-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin.anr)
+[![GitHub](https://img.shields.io/badge/GitHub-SNNN--011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNNN-011)
 
-| Project | What it is |
-| --- | --- |
-| [Nano-Money](https://github.com/SNNN-011/Nano-Money) | A Kotlin finance tracker with an AI-assisted workflow. |
-| [threejs-walkthrough](https://github.com/SNNN-011/threejs-walkthrough) | A procedural 3D FPS experiment built with Three.js. |
-| [ai-bloomberg](https://github.com/SNNN-011/ai-bloomberg) | A dashboard for following AI and Web3 news. |
-| [sistem-cuti-dishub](https://github.com/SNNN-011/sistem-cuti-dishub) | A leave-management system for Dishub Kota Bogor. |
-| [Hermes](https://github.com/SNNN-011/Hermes) | An open-source local-first AI agent. |
+</div>
 
-## Tools I reach for
+---
 
-`Python` `TypeScript` `JavaScript` `Kotlin` `PHP` `Flask` `Three.js` `GitHub Actions`
+## What I work with
 
-## Elsewhere
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,php,html,css,git,linux,androidstudio,vscode,bash&theme=dark&perline=6" alt="Python, TypeScript, JavaScript, Kotlin, PHP, HTML, CSS, Git, Linux, Android Studio, VS Code, Bash"/>
+</div>
 
-Most of the useful stuff is in the repositories above. The contribution graph is on the right side of the profile, where it belongs.
+---
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/main/metrics.svg" alt="GitHub profile statistics"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/SNNN-011/SNNN-011/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity over time"/>
+</div>
+
+---
+
+## Selected projects
+
+| Project | Notes |
+| :--- | :--- |
+| [Nano-Money](https://github.com/SNNN-011/Nano-Money) | Kotlin finance tracker with AI-assisted features |
+| [threejs-walkthrough](https://github.com/SNNN-011/threejs-walkthrough) | Procedural 3D FPS experiment built with Three.js |
+| [ai-bloomberg](https://github.com/SNNN-011/ai-bloomberg) | Dashboard for AI and Web3 news |
+| [Hermes](https://github.com/SNNN-011/Hermes) | Open-source local-first AI agent |
+| [sistem-cuti-dishub](https://github.com/SNNN-011/sistem-cuti-dishub) | Leave-management system for Dishub Kota Bogor |
+| [kopi-frontend](https://github.com/SNNN-011/kopi-frontend) | Full-stack coffee shop application |
+
+<div align="center">
+  <sub>Building, testing, and iterating in public.</sub>
+</div>
