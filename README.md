@@ -8,9 +8,9 @@
 
 <blockquote><em>“it won't change just because you wanted to”</em></blockquote>
 
-[![X](https://img.shields.io/badge/X-@snnn__011-1d9bf0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snnn_011)
-[![Instagram](https://img.shields.io/badge/Instagram-@yasin.anr-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin.anr)
-[![GitHub](https://img.shields.io/badge/GitHub-SNNN--011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNNN-011)
+<a href="https://x.com/snnn_011"><img src="https://img.shields.io/badge/X-@snnn__011-24282D?style=flat-square&logo=x&logoColor=E4E4E9" alt="X: @snnn_011"/></a>
+<a href="https://instagram.com/yasin.anr"><img src="https://img.shields.io/badge/Instagram-@yasin.anr-5A5149?style=flat-square&logo=instagram&logoColor=E4E4E9" alt="Instagram: @yasin.anr"/></a>
+<a href="https://github.com/SNNN-011"><img src="https://img.shields.io/badge/GitHub-SNNN--011-3B403B?style=flat-square&logo=github&logoColor=E4E4E9" alt="GitHub: SNNN-011"/></a>
 
 </div>
 
